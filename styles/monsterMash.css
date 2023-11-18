@@ -73,3 +73,9 @@ p {
 #mouth {
     height: 117px;
 }
+
+#infotext {
+    text-align: center;
+    margin-top: 4%; /* Adjust this value as needed */
+    margin-bottom: 1%;
+}
